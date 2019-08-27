@@ -27,6 +27,87 @@
     <text xml:lang="ru">
         <body>
             <pb xml:id="p00-2" n="00v-01" facs="../facsimiles/00v-01.jpg"/>
+            <table>
+ <row>
+   <cell>
+<p> <l>Число </l>
+  <l>  бумагъ </l> </p>
+</cell>
+    <cell>
+<p>  <l>Какого мѣста или лица бумага,</l>
+ <l>от котораго числа и за какимъ №</l> </p> 
+</cell>
+    <cell> 
+<p> 
+<l>На</l>
+<l>сколь-</l>
+<l>кихъ ли-</l>
+<l>стахъ </l></p>
+</cell>
+</row>
+<row>
+<cell> 
+<l>10</l>
+</cell>
+<cell> 
+<l>Копия журнальной статьи</l>
+<l><Отъ: 11 Апреля 1801 года</l>
+</cell>
+<cell> 
+<l>1</l>
+</cell>
+</row>
+<row>
+<cell> 
+<l>11</l>
+</cell>
+    <cell>
+<l>прошенiе Еврея Зельмина</l>
+<l>Боруховича поданное 1 июля</l>
+<l>1801 года__________</l>
+</cell>
+<cell> 
+<l>2</l>
+</cell>
+</row>
+<row>
+<cell>
+<l>12</l>
+</cell>
+<cell>
+<l>Таковоежъ Вайнеборховича</l>
+<l>поданно 9 Сентября 1801 года</l>
+<l>съприложениями _______ </l>
+</cell>
+    <cell>
+<l>4</l>
+</cell>
+</row>
+<row>
+<cell>
+<l>13</l>
+</cell>
+<cell>
+<l><unclear> рапор</unclear> вилен губ правле</l>
+<l>26 июня 1802 года За №<del rend="overstrike">33</del></fw> 208 </l>
+</cell>
+    <cell>
+<l>1</l>
+</cell>
+</row>
+<row>
+<cell>
+<l>итого 39</l>
+</cell>
+</row>
+<row>
+<cell>
+<l>Титулярный советник <unclear>Чури</unclear> </l>
+</cell>
+</row>
+     </table>
+      </body>
+
         </body>
     </text>
 </TEI>
